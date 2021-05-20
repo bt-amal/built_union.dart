@@ -13,7 +13,7 @@ dependencies:
   built_collection: ^5.0.0
   built_union:
     git:
-      url: https://github.com/besher11/built_union.dart
+      url: https://github.com/bt-amal/built_union.dart.git
       path: built_union
   analyzer: '>=1.5.0 <2.0.0'
   source_gen: '>=0.9.0 <2.0.0'
